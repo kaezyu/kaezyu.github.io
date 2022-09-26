@@ -1,0 +1,24 @@
+body { 
+    background-color: #1b1b1e;
+    font-family: Arial, Helvetica, sans-serif;
+  } 
+  .right-side {
+    color: #A9BCD0;
+    display: inline-block;
+    width: 50%;
+  }
+  img{
+    display: inline-block;
+    width: auto;
+  }
+
+
+  .right-side > h1 {
+    font-size: 30pt;
+    color: #D8DBE2;
+    
+  }
+
+
+
+  
